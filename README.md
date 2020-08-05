@@ -1,0 +1,2 @@
+# practices
+Some coding exercises
